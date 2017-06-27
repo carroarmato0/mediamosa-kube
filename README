@@ -1,0 +1,8 @@
+# Mundomosa implemented with Docker for Kube
+
+## Building
+
+```
+docker build -t mediasalsa/backend -f builds/backend .
+```
+
